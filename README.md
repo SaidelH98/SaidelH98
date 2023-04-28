@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Saidel.
+
+Pronouns: He / Him
+
+I'm currently enrolled in the May cohort for Tech Elevator. 
