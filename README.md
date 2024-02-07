@@ -19,4 +19,4 @@ I'm Saidel.
 
 Pronouns: He / Him
 
-I'm currently enrolled in the May cohort for Tech Elevator. 
+Trying to pivot into software development.
